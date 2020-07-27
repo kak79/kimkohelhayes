@@ -22,10 +22,12 @@ header {
 
 
 .right{
+  text-align: justify;
   font-weight: bold;
   position: absolute;
-  top:35%;
-  right:35%;
+  top:350px;
+  right:350px;
+  left: 1000px;
 }
 
 
