@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background-color: bisque;
 }
 
 nav {
@@ -21,10 +22,10 @@ header {
 
 
 .right{
-
+  font-weight: bold;
   position: absolute;
-  top:0%;
-  right:0%;
+  top:35%;
+  right:35%;
 }
 
 
