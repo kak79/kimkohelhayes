@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+    background-color: bisque;
 }
 
 nav {
@@ -26,6 +27,4 @@ p .name {
 
 footer {
   text-align: center;
-  
-     
 }

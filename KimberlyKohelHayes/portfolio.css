@@ -15,13 +15,18 @@ p .name {
 }
 
 
-.hi {
-  text-align: center;
+header {
+  text-align: right;
 }
 
-.there {
-  text-align: center;
+
+.right{
+
+  position: absolute;
+  top:0%;
+  right:0%;
 }
+
 
 footer {
   text-align: center;
