@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background-color: bisque;
 }
 
 nav {
@@ -15,13 +16,18 @@ p .name {
 }
 
 
-.hi {
-  text-align: center;
+header {
+  text-align: right;
 }
 
-.there {
-  text-align: center;
+
+.right{
+  font-weight: bold;
+  position: absolute;
+  top:35%;
+  right:35%;
 }
+
 
 footer {
   text-align: center;
